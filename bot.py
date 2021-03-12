@@ -18,7 +18,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True)
 
 # リツイート対象アカウントを指定
 users = ["youtubemasterd7", "yako_tera", "mon_youtubeking", "KoolNero", "bazyama", "J1nTube", "afro_three", "naaachanel_", "zirazirakuzira", "yt_map", "nabeno_kitchen", "i_ga_ru", "Mongolianfriend", "jinjin3578", "YouTube_inouet", "Half_Dr", "titikuriikuo", "subtube_yukichi","dunyts", "KoolNero", "yossh1_ch", "taiga_hayami"]
-#YoutubeマスターD, ヤコ, もん, 野良ネロ, バズ山, じん, アフロ, なーちゃんねる, YouTubeくじら, 生パスタ, なべ, いがる, Jey, じん(天才), 井上泰介, MIKIO, 乳栗育男, 副業ユキチ, づん, 野良ネコ, よっしー, TAIGA 合計22
+#YoutubeマスターD, ヤコ, もん, 野良ネロ, バズ山, じん, アフロ, なーちゃんねる, YouTubeくじら, 生パスタ, なべ, いがる, Jey, じん(天才), 井上泰介, MIKIO, 乳栗育男, 副業ユキチ, づん, 野良ネコ, よっしー, TAIGA 合計22アカウント
 
 sum = 0
 for user in users:  # 対象者一人ずつ実行
